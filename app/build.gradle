@@ -7,7 +7,7 @@ android {
         applicationId "id.co.imastudio.mengenalhuruflatin"
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 1
+        versionCode 3
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }

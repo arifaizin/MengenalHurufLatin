@@ -57,14 +57,33 @@ public class PlayActivity extends AppCompatActivity {
 
 
     private int[] suarabilal = {
-            R.raw.suarabilal01,
-            R.raw.suarabilal02,
-            R.raw.suarabilal03,
-            R.raw.suarabilal04,
-            R.raw.suarabilal05,
-            R.raw.suarabilal06,
-            R.raw.suarabilal07,
-            R.raw.suarabilal08,
+            R.raw.huruf01,
+            R.raw.huruf02,
+            R.raw.huruf03,
+            R.raw.huruf04,
+            R.raw.huruf05,
+            R.raw.huruf06,
+            R.raw.huruf07,
+            R.raw.huruf08,
+            R.raw.huruf09,
+            R.raw.huruf10,
+            R.raw.huruf11,
+            R.raw.huruf12,
+            R.raw.huruf13,
+            R.raw.huruf14,
+            R.raw.huruf15,
+            R.raw.huruf16,
+            R.raw.huruf17,
+            R.raw.huruf18,
+            R.raw.huruf19,
+            R.raw.huruf20,
+            R.raw.huruf21,
+            R.raw.huruf22,
+            R.raw.huruf23,
+            R.raw.huruf24,
+            R.raw.huruf25,
+            R.raw.huruf26,
+
     };
 
     //    private int[] textAdab = {
